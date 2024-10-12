@@ -4,4 +4,5 @@
 - 🤖 Conducted ML research at [Meta AI](https://ai.meta.com/research/integrity/) and [The EVERY Company](every.com)
 - 🌱 Exploring my interests in computational biology, deep learning infrastructure, design, and fashion
 - ✍🏻 This repo contains some of my digital work, also check out my [blog](danej.co)
+- 🏎️ I work almost entirely in Python, JAX, Rust, and occasionally Typescript
 - 📫 Feel free to reach out to me on [X](https://x.com/danesonance)
